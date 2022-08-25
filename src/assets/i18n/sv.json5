@@ -1267,7 +1267,7 @@
   // TODO New key - Add a translation
   "bitstream-request-a-copy.submit.error": "Ett fel uppstod när begäran skulle skickas.",
 
-
+  "browse.back.all-results": "Tillbaka till listan",
 
   // "browse.comcol.by.author": "By Author",
   // TODO New key - Add a translation
@@ -2841,7 +2841,7 @@
 
   // "form.discard": "Discard",
   // TODO New key - Add a translation
-  "form.discard": "Dra tillbaka",
+  "form.discard": "Ta bort",
 
   // "form.drag": "Drag",
   // TODO New key - Add a translation
@@ -3019,7 +3019,45 @@
   // TODO New key - Add a translation
   "grant-request-copy.success": "Begäran beviljades.",
 
+  "health.breadcrumbs": "System status",
 
+  "health-page.heading" : "System status",
+
+  "health-page.info-tab" : "Information",
+
+  "health-page.status-tab" : "Status",
+
+  "health-page.error.msg": "Funktionen är tillfälligt oåtkomlig",
+
+  "health-page.property.status": "Statuskod",
+
+  "health-page.section.db.title": "Databas",
+
+  "health-page.section.geoIp.title": "GeoIp",
+
+  "health-page.section.solrAuthorityCore.title": "Sor: authority core",
+
+  "health-page.section.solrOaiCore.title": "Sor: oai core",
+
+  "health-page.section.solrSearchCore.title": "Sor: search core",
+
+  "health-page.section.solrStatisticsCore.title": "Sor: statistics core",
+
+  "health-page.section-info.app.title": "Application Backend",
+
+  "health-page.section-info.java.title": "Java",
+
+  "health-page.status": "Status",
+
+  "health-page.status.ok.info": "Operational",
+
+  "health-page.status.error.info": "Problem har upptäckts",
+
+  "health-page.status.warning.info": "Möjliga problem har upptäckts",
+
+  "health-page.title": "System status",
+
+  "health-page.section.no-issues": "Inga problem har upptäckts",
 
   // "home.description": "",
   // TODO New key - Add a translation
@@ -4203,6 +4241,9 @@
   // TODO New key - Add a translation
   "item.select.table.title": "Titel",
 
+  "item.truncatable-part.show-more": "Visa mer",
+  
+  "item.truncatable-part.show-less": "Visa mindre",
 
   // "item.version.history.empty": "There are no other versions for this item yet.",
   // TODO New key - Add a translation
@@ -4790,6 +4831,9 @@
   // TODO New key - Add a translation
   "menu.section.export_metadata": "Metadata",
 
+  "menu.section.health": "System status",
+
+  "menu.section.icon.health": "System status",
 
 
   // "menu.section.icon.access_control": "Access Control menu section",
